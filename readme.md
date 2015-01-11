@@ -8,6 +8,44 @@ Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wirefr
 
 ![meteoric projects wireframe](https://www.dropbox.com/s/sjhimffvxzub2c4/meteoric-projects-sketch-thumbnail.jpg?raw=1)
 
+### Development Workflow
+
+I find it useful when learning something new to always know "where" I am in an overall sense while working in the weeds. Data (Collections) drives this app and it will drive our workflow too. Below is the steps we will take when building **each** collection.
+
+#### Workflow Process
+
+1.  Create Collection
+2.  Create Schema(s)
+3.  Create Seed Date
+4.  Create List(Index) Publications
+5.  Create List Controller
+6.  Create List Route
+7.  Create List Templates
+8.  Create Record Detail Publications
+9.  Create Record Detail Controller
+10.  Create Record Detail Route
+11.  Create Record Detail Templates
+12.  Create Record Edit Publications
+13.  Create Record Edit Controller
+14.  Create Record Edit Route
+15.  Create Record Edit Templates
+16.  Create Record Add Publications
+17.  Create Record Add Controller
+18.  Create Record Add Route
+19.  Create Record Add Templates
+
+#### Development Order
+
+1.  Users Collection
+2.  Contacts Collection
+3.  Activities Collection
+4.  Projects Collection
+5.  ProjectContacts Collection
+6.  Notes Collection
+7.  Adv. User Profile Settings
+8.  Adv. Admin Management
+
+
 ## 01. Initial Setup
 
 1.	Create a new Meteor app from the terminal `$ meteor create meteoric-projects`
@@ -26,30 +64,49 @@ Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wirefr
       └── activities/
         ├── activities.html
         ├── activities.scss
-        ├── activities.js
+        └── activities.js
       └── contacts/
         ├── contacts.html
         ├── contacts.scss
-        ├── contacts.js
+        └── contacts.js
       └── notes/
         ├── notes.html
         ├── notes.scss
-        ├── notes.js
+        └── notes.js
       └── projects/
         ├── projects.html
         ├── projects.scss
-        ├── projects.js
+        └── projects.js
+      └── users/
+        ├── users.html
+        ├── users.scss
+        └── users.js
       └── layouts/
         ├── mainLayout.html
         └── mainLayout.js
       └── shared/
       └── index.html
   collections/
-    ├── activities.js
-    ├── contacts.js
-    ├── notes.js
-    ├── projects.js
-    └── users.js
+    └── activities/
+      ├── activitiesCollection.js
+      ├── activitiesController.js
+      └── activitiesSchema.js
+    └── contacts/
+      ├── contactsCollection.js
+      ├── contactsController.js
+      └── contactsSchema.js
+    └── notes/
+      ├── notesCollection.js
+      ├── notesController.js
+      └── notesSchema.js
+    └── projects/
+      ├── projectsCollection.js
+      ├── projectsController.js
+      └── projectsSchema.js
+    └── users/
+      ├── usersCollection.js
+      ├── usersController.js
+      └── usersSchema.js
   routes/
     └── router.js
   packages/
@@ -68,6 +125,7 @@ Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wirefr
         ├── projects.js
         └── users.js
 	```
+
 4.	Add standard packages
 
 	Add all the following packages in one *swoop* by running this in your terminal from the project folder:
