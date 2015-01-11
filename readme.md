@@ -17,17 +17,16 @@ Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wirefr
 	```
 	.meteor/
   client/
-    ├── accounts/
     ├── compatibility/
     └── stylesheets/
       ├── _app-mixins.scss
       ├── _app-variables.scss
       └── app.scss
     └── views/
-      └── activity/
-        ├── activity.html
-        ├── activity.scss
-        ├── activity.js
+      └── activities/
+        ├── activities.html
+        ├── activities.scss
+        ├── activities.js
       └── contacts/
         ├── contacts.html
         ├── contacts.scss
@@ -74,7 +73,7 @@ Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wirefr
 	Add all the following packages in one *swoop* by running this in your terminal from the project folder:
 	
 	```
-	$ meteor add accounts-password underscore mrt:underscore-string-latest stevezhu:lodash fastclick jquery reactive-var reactive-dict iron:router zimme:iron-router-active fuatsengul:iron-router-auth dburles:collection-helpers matb33:collection-hooks reywood:publish-composite alanning:roles ongoworks:security momentjs:moment aldeed:autoform aldeed:collection2 aldeed:simple-schema tmeasday:publish-counts u2622:persistent-session zimme:collection-softremovable zimme:collection-timestampable meteorhacks:kadira meteorhacks:aggregate meteorhacks:zones matteodem:easy-search fourseven:scss meteoric:ionic-sass meteoric:ionicons-sass meteoric:ionic meteoric:autoform-ionic
+	$ meteor add accounts-password underscore mrt:underscore-string-latest stevezhu:lodash fastclick jquery reactive-var reactive-dict iron:router zimme:iron-router-active fuatsengul:iron-router-auth dburles:collection-helpers matb33:collection-hooks reywood:publish-composite alanning:roles ongoworks:security momentjs:moment aldeed:autoform aldeed:collection2 aldeed:simple-schema tmeasday:publish-counts u2622:persistent-session zimme:collection-softremovable zimme:collection-timestampable meteorhacks:kadira meteorhacks:aggregate meteorhacks:zones matteodem:easy-search dburles:factory anti:fake fourseven:scss meteoric:ionic-sass meteoric:ionicons-sass meteoric:ionic meteoric:autoform-ionic
 	```
 
 	| Package Name | Github | Atmosphere | Website |
@@ -107,6 +106,8 @@ Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wirefr
 	| meteorhacks:aggregate | [github](https://github.com/meteorhacks/meteor-aggregate/) | [atmosphere](https://atmospherejs.com/meteorhacks/aggregate) |
 	| meteorhacks:zones | [github](https://github.com/meteorhacks/zones/) | [atmosphere](https://atmospherejs.com/meteorhacks/zones) |
 	| matteodem:easy-search | [github](https://github.com/matteodem/meteor-easy-search/) | [atmosphere](https://atmospherejs.com/matteodem/easy-search) | [website](https://github.com/matteodem/meteor-easy-search/wiki) |
+	| dburles:factory | [github](https://github.com/percolatestudio/meteor-factory/) | [atmosphere](https://atmospherejs.com/dburles/factory) |  |
+  | anti:fake | [github](https://github.com/anticoders/meteor-fake/) | [atmosphere](https://atmospherejs.com/anti/fake) |  |
 	| fourseven:scss | [github](https://github.com/fourseven/meteor-scss/) | [atmosphere](https://atmospherejs.com/fourseven/scss) | [website](http://sass-lang.com/guide) |
 	| meteoric:ionic-sass | [github](https://github.com/meteoric/ionic-sass/) | [atmosphere](https://atmospherejs.com/meteoric/ionic-sass) | [website](http://ionicframework.com/docs/components/) |
 	| meteoric:ionicons-sass | [github](https://github.com/meteoric/ionicons-sass/) | [atmosphere](https://atmospherejs.com/meteoric/ionicons-sass) | [website](http://ionicons.com/) |
@@ -120,30 +121,8 @@ Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wirefr
         <head>
           <title>Meteoric Projects</title>
           <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
-
-          <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=2">
-          <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=2">
-          <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=2">
-          <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=2">
-          <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=2">
-          <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=2">
-          <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=2">
-          <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=2">
-          <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=2">
-          <link rel="icon" type="image/png" href="/favicon-192x192.png?v=2" sizes="192x192">
-          <link rel="icon" type="image/png" href="/favicon-160x160.png?v=2" sizes="160x160">
-          <link rel="icon" type="image/png" href="/favicon-96x96.png?v=2" sizes="96x96">
-          <link rel="icon" type="image/png" href="/favicon-16x16.png?v=2" sizes="16x16">
-          <link rel="icon" type="image/png" href="/favicon-32x32.png?v=2" sizes="32x32">
-
-          <meta name="msapplication-TileColor" content="#ffffff">
-          <meta name="msapplication-TileImage" content="/mstile-144x144.png?v=2">
-
-          <meta name="theme-color" content="#DE4F4F" />
-          <meta name="mobile-web-app-capable" content="yes">
-
           <meta name="apple-mobile-web-app-capable" content="yes">
-          <meta name="apple-mobile-web-app-title" content="Meteor Hunt">
+          <meta name="apple-mobile-web-app-title" content="Meteoric Projects">
           <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         </head>
 
