@@ -4,9 +4,9 @@ Lets go step by step making a simplish Meteor mobile app using Meteoric and some
 
 ### What we will build
 
-Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this [wireframe](https://www.dropbox.com/s/ry0iwzwro1f7blg/Meteoric-Projects-Mockup.sketch?dl=0).
+Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wireframe](https://www.dropbox.com/s/ry0iwzwro1f7blg/Meteoric-Projects-Mockup.sketch?dl=0).
 
-[meteoric projects wireframe](https://www.dropbox.com/s/sjhimffvxzub2c4/meteoric-projects-sketch-thumbnail.jpg?raw=1)
+![meteoric projects wireframe](https://www.dropbox.com/s/sjhimffvxzub2c4/meteoric-projects-sketch-thumbnail.jpg?raw=1)
 
 ## 01. Initial Setup
 
