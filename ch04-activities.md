@@ -1,3 +1,5 @@
+[**< Previous Chapter**](/ch03-contacts.md) | [**Next Chapter >**](/ch05-projects.md)
+
 # Chapter 4: Activities
 
 ## 04.01. Activities Development Stories/Issues
@@ -49,3 +51,6 @@
 ### 04.08.04. Activity Record Add Templates
 
 ## 04.09. Activities "Blocking" Issues
+
+
+[**< Previous Chapter**](/ch03-contacts.md) | [**Next Chapter >**](/ch05-projects.md)

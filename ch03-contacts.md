@@ -1,3 +1,5 @@
+[**< Previous Chapter**](/ch02-users.md) | [**Next Chapter >**](/ch04-activities.md)
+
 # Chapter 3: Contacts
 
 ## 03.01. Contacts Development Stories/Issues
@@ -49,3 +51,6 @@
 ### 03.08.04. Contact Record Add Templates
 
 ## 03.09. Contacts "Blocking" Issues
+
+
+[**< Previous Chapter**](/ch02-users.md) | [**Next Chapter >**](/ch04-activities.md)

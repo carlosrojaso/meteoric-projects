@@ -1,3 +1,5 @@
+[**< Previous Chapter**](/ch05-projects.md) | [**Next Chapter >**](/ch07-notes.md)
+
 # Chapter 6: ProjectContacts
 
 ## 06.01. ProjectContacts Development Stories/Issues
@@ -49,3 +51,6 @@
 ### 06.08.04. ProjectContact Record Add Templates
 
 ## 06.09. ProjectContacts "Blocking" Issues
+
+
+[**< Previous Chapter**](/ch05-projects.md) | [**Next Chapter >**](/ch07-notes.md)

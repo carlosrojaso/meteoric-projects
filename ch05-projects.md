@@ -1,3 +1,5 @@
+[**< Previous Chapter**](/ch04-activities.md) | [**Next Chapter >**](/ch06-projectcontacts.md)
+
 # Chapter 5: Projects
 
 ## 05.01. Projects Development Stories/Issues
@@ -49,3 +51,6 @@
 ### 05.08.04. Project Record Add Templates
 
 ## 05.09. Projects "Blocking" Issues
+
+
+[**< Previous Chapter**](/ch04-activities.md) | [**Next Chapter >**](/ch06-projectcontacts.md)

@@ -1,3 +1,5 @@
+[**< Previous Chapter**](/ch06-projectcontacts.md) | [**Next Chapter >**](/ch08-userprofilefeatures.md)
+
 # Chapter 7: Notes
 
 ## 07.01. Notes Development Stories/Issues
@@ -49,3 +51,6 @@
 ### 07.08.04. Note Record Add Templates
 
 ## 07.09. Notes "Blocking" Issues
+
+
+[**< Previous Chapter**](/ch06-projectcontacts.md) | [**Next Chapter >**](/ch08-userprofilefeatures.md)

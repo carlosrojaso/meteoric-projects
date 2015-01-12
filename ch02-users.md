@@ -1,3 +1,5 @@
+[**< Previous Chapter**](/ch01-setup.md) | [**Next Chapter >**](/ch03-contacts.md)
+
 # Chapter 2: Users
 
 ## 02.01. Users Development Stories/Issues
@@ -54,3 +56,5 @@
 ### 02.08.04. User Record Add Templates
 
 ## 02.09. Users "Blocking" Issues
+
+[**< Previous Chapter**](/ch01-setup.md) | [**Next Chapter >**](/ch03-contacts.md)

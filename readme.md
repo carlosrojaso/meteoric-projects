@@ -1,3 +1,5 @@
+**Start** | [**Next Chapter >**](/ch01-setup.md)
+
 # Meteoric Projects: A tutorial on how to make a hybrid mobile app with [Meteor](https://www.meteor.com/) + [Ionic](http://ionicframework.com/)
 
 Lets go step by step making a simple-ish Meteor mobile app using Meteoric and some of the most popular Meteor packages.
@@ -55,4 +57,6 @@ I find it useful when learning something new to always know "where" I am in an o
 [Chapter 07: Notes Collection](/ch07-notes.md)
 [Chapter 08: User Profile Features](/ch08-userprofilefeatures.md)
 [Chapter 09: Administration Features](/ch09-administration.md)
+
+**Start** | [**Next Chapter >**](/ch01-setup.md)
 

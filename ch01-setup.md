@@ -1,3 +1,5 @@
+[**< Previous Chapter**](/readme.md) | [**Next Chapter >**](/ch02-users.md)
+
 # Chapter 1: Initial Setup
 
 ## 01.01. Create a Meteor app
@@ -159,3 +161,5 @@ $ meteor add accounts-password underscore mrt:underscore-string-latest stevezhu:
     <body>
     </body>
   ```
+
+  [**< Previous Chapter**](/readme.md) | [**Next Chapter >**](/ch02-users.md)
