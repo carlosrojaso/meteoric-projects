@@ -48,15 +48,15 @@ I find it useful when learning something new to always know "where" I am in an o
 
 #### Chapters (Development Order)
 
-[Chapter 01: Initial Setup](/ch01-setup.md)
-[Chapter 02: Users Collection](/ch02-users.md)
-[Chapter 03: Contacts Collection](/ch03-contacts.md)
-[Chapter 04: Activities Collection](/ch04-activities.md)
-[Chapter 05: Projects Collection](/ch05-projects.md)
-[Chapter 06: ProjectContacts Collection](/ch06-projectcontacts.md)
-[Chapter 07: Notes Collection](/ch07-notes.md)
-[Chapter 08: User Profile Features](/ch08-userprofilefeatures.md)
-[Chapter 09: Administration Features](/ch09-administration.md)
+- [Chapter 01: Initial Setup](/ch01-setup.md)
+- [Chapter 02: Users Collection](/ch02-users.md)
+- [Chapter 03: Contacts Collection](/ch03-contacts.md)
+- [Chapter 04: Activities Collection](/ch04-activities.md)
+- [Chapter 05: Projects Collection](/ch05-projects.md)
+- [Chapter 06: ProjectContacts Collection](/ch06-projectcontacts.md)
+- [Chapter 07: Notes Collection](/ch07-notes.md)
+- [Chapter 08: User Profile Features](/ch08-userprofilefeatures.md)
+- [Chapter 09: Administration Features](/ch09-administration.md)
 
 **Start** | [**Next Chapter >**](/ch01-setup.md)
 
