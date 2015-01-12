@@ -1,5 +1,7 @@
 **Start** | [**Next Chapter >**](/ch01-setup.md)
 
+[![Features Coming](https://badge.waffle.io/benstr/meteoric-projects.png?label=next&title=New%20Features)](https://waffle.io/benstr/meteoric-projects) [![Confirmed Bugs](https://badge.waffle.io/benstr/meteoric-projects.png?label=bugs&title=Bugs)](https://waffle.io/benstr/meteoric-projects) [![Confirmed Bugs](https://badge.waffle.io/benstr/meteoric-projects.png?label=in%20progress&title=In%20Progress)](https://waffle.io/benstr/meteoric-projects)
+
 # Meteoric Projects: A tutorial on how to make a hybrid mobile app with [Meteor](https://www.meteor.com/) + [Ionic](http://ionicframework.com/)
 
 Lets go step by step making a simple-ish Meteor mobile app using Meteoric and some of the most popular Meteor packages.

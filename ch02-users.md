@@ -4,10 +4,7 @@
 
 ## 02.01. Users Development Stories/Issues
 
-	- Initial root is home page with logo
-	- If not logged in trigger login modal
-	- If logged in then get re-routed to projects list
-	-
+[Check out the stories I made for this chapter](https://github.com/benstr/meteoric-projects/issues?q=milestone%3A%22v1.0+Users+Collection%22+)
 
 ## 02.02. Users Collection
 
