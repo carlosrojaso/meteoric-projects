@@ -10,7 +10,7 @@ Your client had a designer loosely wireframe the app, see below. As it sometimes
 
 Got [Sketch.app](http://bohemiancoding.com/sketch/)? Download this app's [wireframe](https://www.dropbox.com/s/ry0iwzwro1f7blg/Meteoric-Projects-Mockup.sketch?dl=0).
 
-![meteoric projects wireframe](https://www.dropbox.com/s/sjhimffvxzub2c4/meteoric-projects-sketch-thumbnail.jpg?raw=1)
+![meteoric projects wireframe](https://www.dropbox.com/s/llxcilp1np7v1re/meteoric-wire.png?raw=1)
 
 ### Development Workflow
 

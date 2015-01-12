@@ -15,12 +15,12 @@ Prerequisite: Setup Git and push to GitHub, if you need help check [GitHub Bootc
 
 1.  We will be using GitHub Issues and [Waffle.io](https://waffle.io) to track our progress
 2.  On **GitHub** under **Issues** select the **Milestone** nav pill and add a Milestone for each development order item 2 through 9 from the [readme](readme.md). Here is an example of what mine looks like.
-  ![Image showing example of github milestones](https://www.dropbox.com/s/4q1u9kx0tcw0kvb/milestones.jpg?raw=1)
+  ![Image showing example of github milestones](https://www.dropbox.com/s/4pxu8es3b3bpmce/milestones.png?raw=1)
 3.  Now we will use Issues in the rest of this tutorial for outlining our steps before we do them.
 4.  *Optional*, go ahead and get acquainted [Waffle.io](https://waffle.io), learn about all the nice Kanban features they offer for free.
 
   Example image:
-  ![Waffle.io example](https://camo.githubusercontent.com/f3d07ebc3abab298c52ee8100b5795258ce73045/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776166666c65696f2d7374617469632f77696b692f312d6372656174652d636172642e706e67)
+  ![Waffle.io example](https://www.dropbox.com/s/5pyse6hv653yp1j/waffle-ex.png?raw=1)
 
 ## 01.03. Folder Structure
 
